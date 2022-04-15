@@ -20,7 +20,9 @@ pipeline {
         }
         stage('QualityCheck'){
             steps {
-                
+                timeout(time: 1, unit: 'HOURS') {
+    // some block
+}
                 waitForQualityGate true
             }
         }
