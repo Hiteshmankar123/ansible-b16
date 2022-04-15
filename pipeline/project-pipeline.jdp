@@ -20,9 +20,7 @@ pipeline {
         }
         stage('QualityCheck'){
             steps {
-                withSonarQubeEnv('sonar') {
-                     sh 'mvn sonar:sonar'
-                }
+                
             }
         }
         stage('Deploy'){
