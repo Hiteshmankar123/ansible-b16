@@ -18,7 +18,7 @@ pipeline {
                 }
             }
         }
-        stage(''){
+        stage('QualityCheck'){
             steps {
                 withSonarQubeEnv('sonar') {
                      sh 'mvn sonar:sonar'
