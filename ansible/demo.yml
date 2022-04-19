@@ -25,9 +25,9 @@ information:
 
 
 info:
-- name: shubham
-- address: nagpur
-- colour: white
+    - name: shubham
+    - address: nagpur
+    - colour: white
 
 
 
