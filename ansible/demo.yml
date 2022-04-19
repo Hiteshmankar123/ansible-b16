@@ -20,14 +20,14 @@ color:
 
 information:
   - name: shubham
-  - address: nagpur
+  - 
 
 
 
-name: shubham
 
-- mango
-- banana
+- name: shubham
+- address: nagpur
+
 - apple
 
 
