@@ -6,3 +6,7 @@ address: nagpur
 class: linux
 fees: 10000
 ...
+
+
+
+print(class)
