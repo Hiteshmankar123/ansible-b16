@@ -1,0 +1,40 @@
+---
+name: shubham
+address: nagpur
+...
+---
+class: linux
+fees: 10000
+...
+
+fruit:
+  - mango
+  - banana
+  - apple
+color:
+  white
+  black
+  silver
+  gold
+
+
+information:
+  - name: shubham
+  - 
+
+info:
+    - name: shubham
+    - address: nagpur
+    - colour: white
+
+
+address: |
+    21, atrey layout
+    pratap nagar
+    nagpur
+
+
+
+
+
+
